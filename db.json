@@ -1,0 +1,66 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "suman01",
+            "email": "suman@gmail.com",
+            "mobile": "1234567890",
+            "password": "idk###",
+            "confirmPassword": "idk###",
+            "country": "Nepal",
+            "state": "Bagmati",
+            "city": "Kathmandu",
+            "gender": "M",
+            "zipCode": "444444"
+        },
+        {
+            "id": 2,
+            "username": "risu01",
+            "email": "risu@gmail.com",
+            "mobile": "9876544321",
+            "password": "iKnowEverything",
+            "confirmPassword": "iKnowEverything",
+            "country": "Nepal",
+            "state": "Bagmati",
+            "city": "Kathmandu",
+            "gender": "F",
+            "zipCode": "444444"
+        },
+        {
+            "id": 3,
+            "username": "pujan01",
+            "email": "pujan@gmail.com",
+            "mobile": "5557778890",
+            "password": "howdy",
+            "confirmPassword": "howdy",
+            "country": "Nepal",
+            "state": "Bagmati",
+            "city": "Bhaktapur",
+            "gender": "M",
+            "zipCode": "444444"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "imgsrc": "https://via.placeholder.com/333",
+            "name": "item one",
+            "price": 34.90,
+            "description": "Description of the product one."
+        },
+        {
+            "id": 2,
+            "imgsrc": "https://via.placeholder.com/333",
+            "name": "item two",
+            "price": 34.90,
+            "description": "Description of the product two."
+        },
+        {
+            "id": 3,
+            "imgsrc": "https://via.placeholder.com/333",
+            "name": "item three",
+            "price": 34.90,
+            "description": "Description of the product three."
+        }
+    ]
+}
